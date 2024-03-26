@@ -1,6 +1,6 @@
 #       @Zynth9999
-### - 👀 I’m interested in -**ESP32's** and **(non)Ethical hacking**
-### - 🌱 I’m currently learning **C++** and **Python**
+### - 👀 I’m interested in Nintendo Console Modding/Homebrew
+### - 🌱 I’m currently learning **HTML** and **JS**
 ### - 📫 How to reach me 
 #     Dm me on discord ***@ZynthRodak***
 
