@@ -1,6 +1,6 @@
 #       @Zynth9999
-### - 👀 I’m interested in Nintendo Console Modding/Homebrew
-### - 🌱 I’m currently learning **HTML** and **JS**
+### - 👀 I’m interested in esp32 Stuff, 3D Printing
+### - 🌱 I’m currently learning C++, C
 ### - 📫 How to reach me 
 #     Dm me on discord ***@ZynthRodak***
 
